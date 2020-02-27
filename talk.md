@@ -18,13 +18,19 @@ theme: Olive Green, 9
 
 [.footer: https://xkcd.com/2272/]
 
-![inline fit](./ringtone_timeline_2x.png)
+![inline fit](./ringtone_timeline.png)
 
 ---
 
 # NOKIA 3310
 
-Released on 1 September 2000!
+![fit right](./nokia_3310.jpg)
+
+---
+
+- Released on 1 September 2000!
+- 84 by 48 pixels monochrome display
+- Sold 100 million units
 
 ---
 
@@ -33,6 +39,10 @@ Released on 1 September 2000!
 ---
 
 ![](https://youtu.be/eCgVgaEYFAM?t=25)
+
+---
+
+# And... ringtone composer!
 
 ---
 

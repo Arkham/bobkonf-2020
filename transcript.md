@@ -179,7 +179,7 @@ type Duration
     = Whole
     | Half
     | Quarter
-    | Eigth
+    | Eighth
     | Sixteenth
     | ThirtySecond
 ```
@@ -256,7 +256,7 @@ type DurationLength
     = Whole
     | Half
     | Quarter
-    | Eigth
+    | Eighth
     | Sixteenth
     | ThirtySecond
 ```
